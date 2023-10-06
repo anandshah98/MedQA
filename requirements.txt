@@ -1,0 +1,10 @@
+pinecone-client[grpc]
+sentence-transformers
+pandas
+torch
+gradio
+tqdm
+transformers
+accelerate
+tqdm
+openpyxl
