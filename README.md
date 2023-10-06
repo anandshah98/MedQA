@@ -2,7 +2,7 @@
 
 ***Answer medical queries through a simple LLM chatbot rather than searching the web and piecing it together on your own***
 
-[Access on the model on Hugging Face spaces](https://huggingface.co/spaces/xpsychted/MedQA-Assistant) - `Response time is 2 mins minimum`
+[Access on the model on Hugging Face spaces](https://huggingface.co/spaces/xpsychted/MedQA-Assistant) - `Response time is 2 mins on average`
 
 
 ## How to set up the environment
